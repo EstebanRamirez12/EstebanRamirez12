@@ -8,7 +8,7 @@
 - 📫 contactame: **manuelramirez_r12@hotmail.com**
 - 📝 Estudié en Instituto Tecnológico de Toluca
 - 	<img src="https://komarev.com/ghpvc/?username=EstebanRamirez12&label=Profile%20views&color=brightgreen&style=plastic" alt="esteban views del mi perfil" /> 
-	<a href="https://github.com/EstebanRamirez12?tab=followers"><img src="https://img.shields.io/github/followers/thenuka99?label=Followers&style=social" alt="GitHub Badge"></a>
+	<a href="https://github.com/EstebanRamirez12?tab=followers"><img src="https://img.shields.io/github/followers/EstebanRamirez12?label=Followers&style=social" alt="GitHub Badge"></a>
 <br><br><br><br>
 
 <p align="center">
@@ -35,7 +35,7 @@
   <img  alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
   <img  alt="java" src ="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
   <img  alt="spring" src ="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-  <img  alt="c" src ="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>  
+  <img  alt="c" src ="https://img.shields.io/badge/c%20sharp-512BD4?style=for-the-badge&logo=csharp&logoColor=white"/>  
   <img  alt="net" src ="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge"/>
   <img  alt="mysql" src ="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </div>
