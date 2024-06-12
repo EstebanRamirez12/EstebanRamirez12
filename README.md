@@ -7,8 +7,8 @@
 - :computer: &nbsp;Conecta conmingo: **[linkedin]**
 - 📫 contactame: **manuelramirez_r12@hotmail.com**
 - 📝 Estudié en Instituto Tecnológico de Toluca
-- 	<img src="https://komarev.com/ghpvc/?username=thenuka99&label=Profile%20views&color=brightgreen&style=plastic" alt="thenuka's profile views" /> 
-	<a href="https://github.com/thenuka99?tab=followers"><img src="https://img.shields.io/github/followers/thenuka99?label=Followers&style=social" alt="GitHub Badge"></a>
+- 	<img src="https://komarev.com/ghpvc/?username=EstebanRamirez12&label=Profile%20views&color=brightgreen&style=plastic" alt="esteban views del mi perfil" /> 
+	<a href="https://github.com/EstebanRamirez12?tab=followers"><img src="https://img.shields.io/github/followers/thenuka99?label=Followers&style=social" alt="GitHub Badge"></a>
 <br><br><br><br>
 
 <p align="center">
@@ -16,9 +16,9 @@
 </p>
  
 <p>
- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thenuka99&langs_count=10&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="estebanramirez12" />
+ <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=EstebanRamirez12&langs_count=10&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="estebanramirez12" />
 </p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=thenuka99&show_icons=true&locale=en&theme=chartreuse-dark" alt="estebanramirez12" width="410"/>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=estebanRamirez12&show_icons=true&locale=en&theme=chartreuse-dark" alt="estebanramirez12" width="410"/>
 </p>
 
 <br><br><br><br><br><br><br><br>
