@@ -1,7 +1,7 @@
 
 ### Hola 👋Soy Esteban Ramírez
 
-> JUNIOR FULL STACK DEVELOPER
+> WEB DEVELOPER
 <br />
 
 - :computer: &nbsp;Conecta conmingo: **[linkedin]**
